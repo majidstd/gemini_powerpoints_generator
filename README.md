@@ -226,9 +226,8 @@ I'll check your pull request. 😀
 
 ---
 
-If you want to learn more about how to contribute, visit [CONTRIBUTING.md](docs/CONTRIBUTING.md).
 
-## Setup the Secret Key and Gemini AI Key 
+## Setup the Secret Key and Gemini API Key 
 
 The application uses a secret key for session management and an Gemini key for the Gemini API.
 These keys are defined as environment variables, and you can easily set them up using the provided .env.example file.
@@ -239,7 +238,7 @@ These keys are defined as environment variables, and you can easily set them up 
    
 ```
 SECRET_KEY=your_secret_key
-GEMINI_KEY=your_geminiai_key
+GEMINI_API_KEY=your_geminiai_key
 PEXELS_API_KEY=your_pexels_key
 ```
 
@@ -247,7 +246,7 @@ Here's a brief description of each key and how to obtain them:
 
 **SECRET_KEY**: 🔐This is used for web application security such as session management. You can create your own secure, random string for this.
 
-**GEMINI_KEY**: 🤖This is required to access the GEMINI API. Although there's a limitation with the free version, it's sufficient for trying out this web application on your local machine. You can obtain this key by creating an account on the https://gemini.google.com.
+**GEMINI_API_KEY**: 🤖This is required to access the GEMINI API. Although there's a limitation with the free version, it's sufficient for trying out this web application on your local machine. You can obtain this key by creating an account on the https://gemini.google.com.
 
 **PEXELS_API_KEY**: 🏞️ This key is used for the free image search API provided by Pexels. It's very useful for adding creative images to your presentations. You can get this key by creating a free account on the https://www.pexels.com/api
 After registering, the API key is automatically generated for you.
@@ -255,8 +254,13 @@ After registering, the API key is automatically generated for you.
 
 ## Contributors ✨
 
+New Project that uses Google Gemini API
+<img src="https://github.com/hedulove.png" width="50" height="50" alt="description">
+<a href="https://github.com/hedulove">hedulove</a>
+<a href="https://github.com/hedulove/powerpoints_generator">powerpoints_generator</a>
 
 
+Original project that uses OpenAI API
 <img src="https://github.com/otahina.png" width="50" height="50" alt="description">
 <a href="https://github.com/otahina">Ota Hina</a>
 <img src="https://github.com/gaganmanku96.png" width="50" height="50" alt="description">
