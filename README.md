@@ -1,11 +1,7 @@
-![banner](https://github.com/otahina/PowerPoint-Generator-Python-Project/assets/108225969/bfe8f796-3ffa-4c59-92f5-7624f6f9884f)
+
 
 [![made-with-python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/otahina/PowerPoint-Generator-Python-Project.git)
-[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/otahina)
-
-<img src="https://img.shields.io/github/stars/otahina/PowerPoint-Generator-Python-Project.svg"> <img src="https://img.shields.io/github/forks/otahina/PowerPoint-Generator-Python-Project.svg">
 
 ## PowerPoint Generator: Your Gateway to Effortless Presentations 🚀
 
@@ -14,8 +10,6 @@ PowerPoint presentations! 🌟
 This project is ripe for growth and eager for your contributions. Let's enhance its capability together! 😊
 
 ## Demo Highlights 🎬
-
-https://github.com/otahina/PowerPoint-Generator-Python-Project/assets/108225969/82d98c7a-0244-4fed-8f6b-f6c994fd69e3
 
 ## Table of Contents 📋
 
@@ -26,7 +20,7 @@ https://github.com/otahina/PowerPoint-Generator-Python-Project/assets/108225969/
 
 ## Features 
 
-* **🤖 AI-Driven Content Creation**: Utilize the power of GPT-3.5 Turbo to generate slide content based on user's input.
+* **🤖 AI-Driven Content Creation**: Utilize the power of GOOGLE GEMINI to generate slide content based on user's input.
 * **😎 Intelligent Slide Generation**: The tool intelligently proposes titles and content for each slide.
 * **🎨 Customizable Themes**: Choose color themes for your presentation, giving it a personalized touch.
 * **🙂 User-Friendly Interface**: Clear instructions and an intuitive design make the PowerPoint generation process seamless and straightforward.
@@ -65,7 +59,7 @@ Step 2: Clone It 🐑
 Open your terminal and run the following command:
 
 ```bash
-git clone https://github.com/otahina/PowerPoint-Generator-Python-Project.git
+git clone https://github.com/account/project.git
 ```
 
 - **Using Download ZIP**
@@ -151,10 +145,6 @@ Star the repo to start your contribution ⭐️
 Step 2: Fork it 🍴
 </summary>
 
-On the [GitHub page for this repository](https://github.com/otahina/PowerPoint-Generator-Python-Project.git), click on the Button "**Fork**".
-
-![fork image](https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png)
-
 </details>
 
 ---
@@ -207,7 +197,7 @@ Run the following commands **_carefully_** to update your local repository.
 ```bash
 # If you cloned a while ago, get the latest changes from upstream
 git checkout main
-git remote add upstream https://github.com/otahina/PowerPoint-Generator-Python-Project.git
+git remote add upstream https://github.com/account/project.git
 git pull upstream main
 
 # Make a feature branch (Always check your current branch is up to date before creating a new branch from it to avoid merge conflicts)
@@ -262,10 +252,10 @@ Here's a brief description of each key and how to obtain them:
 **PEXELS_API_KEY**: 🏞️ This key is used for the free image search API provided by Pexels. It's very useful for adding creative images to your presentations. You can get this key by creating a free account on the https://www.pexels.com/api
 After registering, the API key is automatically generated for you.
 
-## Community Discussions 🗣️
-Have a question, idea, or want to contribute? Join us in [Discussions](https://github.com/otahina/PowerPoint-Generator-Python-Project/discussions)!
 
 ## Contributors ✨
+
+
 
 <img src="https://github.com/otahina.png" width="50" height="50" alt="description">
 <a href="https://github.com/otahina">Ota Hina</a>
