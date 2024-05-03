@@ -16,7 +16,7 @@ This project is ripe for growth and eager for your contributions. Let's enhance 
 1. [Features](#features)
 2. [Inner Structure of the Project](#inner-structure-of-the-project)
 3. [How to Use](#how-to-use)
-4. [How to Contribute](#how-to-contribute)
+
 
 ## Features 
 
@@ -34,7 +34,7 @@ In this document, I explain the code and the relationships between different par
 ## How to use
 
 If you want to try using this project, here is a step-by-step guide. 
-Those who want to contribute to (which is welcome!), please check [How to Contribute](#how-to-contribute)
+
 
 <details>
 <summary>
